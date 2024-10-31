@@ -12,4 +12,5 @@ Key features include:
 
 Technology:
 * Java
+* Java Swing
 * Apache NetBeans
